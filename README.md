@@ -50,8 +50,7 @@ This project focuses on building an OCR (Optical Character Recognition) system c
 | TrOCR-Large         | 0.234   |
 | + Postprocessing    | **0.202** ✅ |
 
-🏅 **Final Model WER:** 0.202  
-👥 **Team Name:** AbhinavJ
+**Final Model WER:** 0.202  
 
 ---
 
